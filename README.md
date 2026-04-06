@@ -28,10 +28,7 @@ cd semantic-research-feed
 pip install -r requirements.txt
 ```
 
-Add your API key:
-```bash
-export EXA_API_KEY=your_key_here
-```
+
 
 Run:
 ```bash
