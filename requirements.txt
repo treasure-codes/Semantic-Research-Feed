@@ -1,0 +1,6 @@
+exa-py
+sentence-transformers
+faiss-cpu
+streamlit
+python-dotenv
+numpy
